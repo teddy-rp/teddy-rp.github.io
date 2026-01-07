@@ -1,0 +1,7 @@
+/* 样式入口 - 按顺序引入所有CSS文件，只需在HTML中引入这一个文件即可 */
+@import url('./base/variables.css');
+@import url('./base/reset.css');
+@import url('./components/navbar.css');
+@import url('./components/carousel.css');
+@import url('./components/features.css');
+@import url('./components/content.css');

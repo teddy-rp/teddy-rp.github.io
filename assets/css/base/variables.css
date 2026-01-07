@@ -1,0 +1,31 @@
+/* 主题变量 - 集中管理颜色、尺寸等，便于统一修改 */
+:root {
+    /* 颜色变量 */
+    --bg-primary: #000000;      /* 主背景色 */
+    --bg-secondary: #111111;    /* 次要背景色 */
+    --bg-tertiary: #1a1a1a;     /* 卡片背景色 */
+    --text-primary: #ffffff;    /* 主文字色 */
+    --text-secondary: #999999;  /* 次要文字色 */
+    --accent-primary: #007bff;  /* 主强调色（蓝色） */
+    --accent-secondary: #6610f2;/* 次要强调色（紫色） */
+    --hover-bg: #0056b3;        /* 按钮hover背景色 */
+    
+    /* 尺寸变量 */
+    --spacing-sm: 8px;
+    --spacing-md: 15px;
+    --spacing-lg: 20px;
+    --spacing-xl: 30px;
+    --spacing-xxl: 40px;
+    
+    /* 圆角变量 */
+    --radius-sm: 4px;
+    --radius-md: 8px;
+    --radius-full: 50%;
+    
+    /* 字体大小 */
+    --font-xs: 12px;
+    --font-sm: 14px;
+    --font-md: 15px;
+    --font-lg: 18px;
+    --font-xl: 22px;
+}
